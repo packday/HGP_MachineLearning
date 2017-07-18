@@ -1,1 +1,1 @@
-### Hidden Genius - Machine Learning
+### Hidden Genius - Python & Machine Learning
