@@ -31,4 +31,3 @@ In addition by using conda, a package, dependency, & environment manager; you ga
 a one stop shop for all of your data science needs.
 
 Anaconda can be downloaded from [here](https://www.continuum.io/downloads).
-
