@@ -12,16 +12,16 @@ This project has two objectives:
  [wiki](https://github.com/packday/HGP_MachineLearning/wiki).
 
  #### Schedule
-Time | Event Flow | Attendees/Speakers
------| -----------| ------------------
-9:00AM - 10:15AM | Travel to 2623 Camino Ramon, walk to 2700 BLD | HG staff and students
-10:15AM – 11:00 AM | Check in, snacks & meet + greet | Melanie & Alexis
-11:00AM – 11:30AM | Speaker 1 – GE overview, diversity etc. | Caleb Moore
-11:30AM – 12:30PM | Break + lunch | All
-12:30AM – 1:00PM | Session 1 – Python/Anaconda | Lead: Victor, Staff: Jon & Nick
-1:00PM – 2:30PM | Session 2 – Machine Learning | Lead: Patrick, Staff: Stanley
-2:30PM – 3:00PM | Tour | Melanie & Alexis
-3:00PM | Departure | HG staff and students
+Time | Event Flow | Attendees/Speakers | Notes
+-----| -----------| ------------------ | -----
+9:00AM - 10:15AM | Travel to 2623 Camino Ramon, walk to 2700 BLD | HG staff and students |
+10:15AM – 11:00 AM | Check in, snacks & meet + greet | Melanie & Alexis |
+11:00AM – 11:30AM | Speaker 1 – GE overview, diversity etc. | Caleb Moore |
+11:30AM – 12:30PM | Break + lunch | All |
+12:30AM – 1:00PM | Session 1 – Python/Anaconda | Lead: Victor, Staff: Jon & Nick | [Python Presentation](https://prezi.com/p/n4sfmsgkmw-e/)
+1:00PM – 2:30PM | Session 2 – Machine Learning | Lead: Patrick, Staff: Stanley |
+2:30PM – 3:00PM | Tour | Melanie & Alexis |
+3:00PM | Departure | HG staff and students |
 
 
 ### Anaconda Installation
